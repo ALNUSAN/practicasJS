@@ -4,5 +4,3 @@ Solicita al usuario que ingrese una palabra o frase utilizando prompt(). Luego, 
 let dato = prompt("Ingrese una Palabra").toLowerCase();
 
 alert(" Ingresaste palabra: " + dato);
-
-
